@@ -1,3 +1,3 @@
 # deepiduav
 
-This repository is for my paper titled "Model Identification of UAV using Deep Learning Approaches"
+This repository is for my paper entitled Deep Learning based System Identification of Quadcopter Unmanned Aerial Vehicle
